@@ -50,7 +50,7 @@ int main() {
 				index = 0;
 				free(charPos);
 				if (!(contains_char(newWord, '_'))) {
-					printf("Great, you won, the word was: %s", WORD);
+					printf("Great, you won");
 					break;
 				}
 			}
