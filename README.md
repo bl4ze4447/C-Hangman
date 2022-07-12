@@ -5,6 +5,10 @@ The applications chooses from an array of words a random one and gives the playe
 
 Self-made string functions made for making the job easier
 
+
+>![My-image](ingore.png)
+
+
 >![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ```
 #define _CRT_SECURE_NO_WARNINGS
